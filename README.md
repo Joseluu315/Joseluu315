@@ -4,7 +4,7 @@
 
 
 
-<h2 align="center">Developer Starts</h2>
+<h2 align="center">Developer Stats</h2>
 <a href="https://github.com/Joseluu315">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Joseluu315&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true" alt="Joseluu315's github stats" />
 </a>
