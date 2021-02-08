@@ -21,5 +21,5 @@
     <img src='https://raw.githubusercontent.com/Joseluu315/Joseluu315/master/skills/java.png' height='42px'>
     <img src='https://raw.githubusercontent.com/Joseluu315/Joseluu315/master/skills/html.png' height='42px'>
     <img src='https://raw.githubusercontent.com/Joseluu315/Joseluu315/master/skills/php.png' height='42px'>
-    <img src='https://raw.githubusercontent.com/Joseluu315/Joseluu315/master/skills/javascript.png' height='42px'>
+    <img src='https://raw.githubusercontent.com/Joseluu315/Joseluu315/master/skills/javascript.jpg' height='42px'>
     <img src='https://raw.githubusercontent.com/Joseluu315/Joseluu315/master/skills/nodejs.png' height='42px'>
